@@ -6,7 +6,7 @@ This is a userscript for web browsers
 
 [TamperMonkey](https://tampermonkey.net/) / [GreaseMonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (FireFox only)  addon enables your browser to use this and other userscripts.
 When you have one of these addons installed you can install the userscript from one of the active userscript collecting sites:
-- https://greasyfork.org/en/scripts/38643-youtube-key-shortcuts-fix
+- https://greasyfork.org/de/scripts/409889-youtube-key-shortcuts-fix
 
 ### [Description](Description.md):
 #### Youtube player controls will work consistently when player is focused:
