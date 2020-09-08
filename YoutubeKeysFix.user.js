@@ -59,6 +59,7 @@
     if (!newFocus.length) return null;
     if (!newFocus.is(":visible()")) return false;
     //var oldFocus= document.activeElement;
+    window.scrollTo(0,0);
     newFocus.focus();
     var done = newFocus[0] === document.activeElement;
     if (!done)
