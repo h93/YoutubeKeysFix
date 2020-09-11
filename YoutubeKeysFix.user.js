@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Youtube key shortcuts FIX
-// @namespace    https://github.com/GregHerendi
-// @homepageURL  https://github.com/GregHerendi/YoutubeKeysFix
-// @supportURL   https://github.com/GregHerendi/YoutubeKeysFix/issues
+// @namespace    https://github.com/h93
+// @homepageURL  https://github.com/h93/YoutubeKeysFix
+// @supportURL   https://github.com/h93/YoutubeKeysFix/issues
 // @version      1.1.2
 // @description  Fix player controls Space, Left, Right, Up, Down to behave consistently after page load or clicking individual controls. Not focusing the mute button anymore.
 // @icon         http://youtube.com/yts/img/favicon_32-vflOogEID.png
